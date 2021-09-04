@@ -8,3 +8,4 @@ response = client.put_object(
     Bucket='javahomecloud123',
     Key='create_bucket.py'
 )
+print("Hello World")
